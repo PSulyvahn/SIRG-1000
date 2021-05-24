@@ -1,0 +1,6 @@
+A = input('Insira um valor valorizado: ')
+B = input('Insira um valor plausível de ser valorizado, mas não deve ser valorizado: ')
+
+media = A/B
+
+print(f'Media dos valores inseridos {media}.')
